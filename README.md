@@ -1,9 +1,9 @@
 ## ~~泥嚎~~ 好。
 > [Ark Launcher](https://github.com/haohandc/ArkLauncher) 是一款面向 **(开源)鸿蒙** 的 **《像素工厂》（Mindustry）启动器**。
-> 《像素工厂》（Mindustry）是一款知名开源游戏。它的仓库就在GitHub上。
+> 《像素工厂》（[Mindustry](https://github.com/Anuken/Mindustry)）是一款知名开源游戏。它的仓库就在GitHub上。
 
 - 🔭 ~~Deepseek~~ 我开发的 Ark Launcher v2 已上架 **华为应用市场**。在应用市场搜索`Ark Launcher`即可下载。
-- 🔭 正在开发 [Cytoid Ark](https://github.com/haohandc/CytoidArk)：让 Cytoid 的 Android 安装包直接运行在 HarmonyOS NEXT 上的兼容层，不经过卓易通。以 GPL-3.0-only 开源。
+- 🔭 正在开发 [Cytoid Ark](https://github.com/haohandc/CytoidArk)：让 [Cytoid](https://github.com/Cytoid/Cytoid) 的 Android 安装包直接运行在 HarmonyOS NEXT 上的兼容层，不经过卓易通。以 GPL-3.0-only 开源。
 
 <!--
 **haohandc/haohandc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
